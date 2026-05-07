@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "@turf/centroid": "^7.3.5",
+    "axios": "^1.16.0",
     "leaflet": "^1.9.4",
     "leaflet-draw": "^1.0.4",
     "react": "^18.2.0",
